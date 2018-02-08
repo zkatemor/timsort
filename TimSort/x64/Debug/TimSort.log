@@ -1,0 +1,6 @@
+﻿  realization.cpp
+c:\для души\индивидуальное задание\timsort\realization.cpp(230): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\для души\индивидуальное задание\timsort\realization.cpp(242): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\для души\индивидуальное задание\timsort\realization.cpp(245): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  TimSort.vcxproj -> C:\Для души\Индивидуальное задание\x64\Debug\TimSort.exe
+  TimSort.vcxproj -> C:\Для души\Индивидуальное задание\x64\Debug\TimSort.pdb (Full PDB)
